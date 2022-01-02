@@ -1,0 +1,16 @@
+system:
+  disable_runtime: false
+  game_path: ~/Downloads
+  prefer_system_libs: true
+  vk_icd: /usr/share/vulkan/icd.d/nvidia_icd.json
+wine:
+  Desktop: false
+  WineDesktop: 3840x2160
+  d3d_extras: true
+  dxvk: true
+  dxvk_nvapi: true
+  dxvk_version: v1.9.2L-3e64e1b
+  esync: true
+  sandbox: true
+  version: lutris-fshack-6.21-6-x86_64
+  vkd3d: true
